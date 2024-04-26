@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    background: url(../assets/background2.png) no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+
+#main-content {
+    width: 41%;
+    margin: 0 auto;
+}
+
+.image1 {
+    width: 280px;
+    height: 230px;
+    float: left;
+    margin-right: 10px;
+}
+
+#header {
+    color: yellow;
+    background-color: maroon;
+    padding: 40px 0px;
+    text-align: center;
+}
+
+#content {
+    padding: 20px 25px;
+    text-align: justify;
+    background-color: pink;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+#footer-fau {
+    font-size: 12px;
+}
